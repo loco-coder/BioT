@@ -1,0 +1,733 @@
+{
+	"_meta": {
+		"total_count": 45,
+		"baseline_count": 29,
+		"prominence": 0.4,
+		"scaling_factor": 1.0,
+		"species": "bovine",
+		"cache_hit": true
+	},
+	"data": {
+		"peaks": [
+			{
+				"max": -2.46,
+				"min": -2.94,
+				"left": 23,
+				"mean": -2.71523809523809,
+				"delta": 0.48,
+				"right": 44,
+				"is_pain_peak": false,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.23999999999999,
+				"min": -3.84,
+				"left": 119,
+				"mean": -3.4658823529411726,
+				"delta": 0.6000000000000099,
+				"right": 153,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.27999999999999,
+				"min": -4.0,
+				"left": 174,
+				"mean": -3.6274999999999957,
+				"delta": 0.6400000000000099,
+				"right": 198,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.58,
+				"min": -4.07999999999999,
+				"left": 215,
+				"mean": -3.7747826086956488,
+				"delta": 0.4599999999999902,
+				"right": 238,
+				"is_pain_peak": false,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -2.78,
+				"min": -5.02,
+				"left": 277,
+				"mean": -4.335294117647058,
+				"delta": 0.9800000000000093,
+				"right": 294,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.14,
+				"min": -6.29999999999999,
+				"left": 296,
+				"mean": -4.222592592592589,
+				"delta": 3.15999999999999,
+				"right": 350,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -2.67999999999999,
+				"min": -3.17999999999999,
+				"left": 368,
+				"mean": -3.019230769230764,
+				"delta": 0.43999999999998976,
+				"right": 394,
+				"is_pain_peak": false,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -2.57999999999999,
+				"min": -6.06,
+				"left": 465,
+				"mean": -4.23432432432432,
+				"delta": 3.4800000000000099,
+				"right": 539,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.19999999999999,
+				"min": -4.48,
+				"left": 544,
+				"mean": -3.642222222222219,
+				"delta": 1.2800000000000105,
+				"right": 571,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.9,
+				"min": -4.68,
+				"left": 663,
+				"mean": -4.329090909090907,
+				"delta": 0.7799999999999998,
+				"right": 685,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -4.9,
+				"min": -6.0,
+				"left": 731,
+				"mean": -5.353103448275861,
+				"delta": 1.0999999999999997,
+				"right": 760,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -5.34,
+				"min": -7.25999999999999,
+				"left": 778,
+				"mean": -6.1034285714285689,
+				"delta": 1.9199999999999902,
+				"right": 813,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -5.16,
+				"min": -7.84,
+				"left": 825,
+				"mean": -6.517142857142854,
+				"delta": 1.7599999999999998,
+				"right": 874,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -4.78,
+				"min": -5.8,
+				"left": 891,
+				"mean": -5.3153846153846129,
+				"delta": 1.0199999999999996,
+				"right": 904,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.03999999999999,
+				"min": -7.42,
+				"left": 979,
+				"mean": -6.617599999999997,
+				"delta": 1.3800000000000097,
+				"right": 1004,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.24,
+				"min": -8.04,
+				"left": 1040,
+				"mean": -7.0068181818181769,
+				"delta": 1.6999999999999994,
+				"right": 1084,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.02,
+				"min": -7.46,
+				"left": 1093,
+				"mean": -7.187428571428569,
+				"delta": 0.4000000000000101,
+				"right": 1128,
+				"is_pain_peak": false,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -8.0,
+				"min": -8.96,
+				"left": 1181,
+				"mean": -8.564571428571427,
+				"delta": 0.9600000000000009,
+				"right": 1216,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.62,
+				"min": -10.58,
+				"left": 1226,
+				"mean": -9.048499999999999,
+				"delta": 2.96,
+				"right": 1266,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.53999999999999,
+				"min": -9.94,
+				"left": 1275,
+				"mean": -8.702173913043476,
+				"delta": 1.7799999999999994,
+				"right": 1321,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.27999999999999,
+				"min": -7.74,
+				"left": 1329,
+				"mean": -7.148947368421051,
+				"delta": 1.4600000000000107,
+				"right": 1367,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.52,
+				"min": -7.74,
+				"left": 1392,
+				"mean": -7.028571428571424,
+				"delta": 1.2200000000000007,
+				"right": 1406,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.8,
+				"min": -11.6,
+				"left": 1436,
+				"mean": -9.002127659574466,
+				"delta": 3.8,
+				"right": 1483,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.25999999999999,
+				"min": -7.94,
+				"left": 1491,
+				"mean": -7.6457142857142819,
+				"delta": 0.6800000000000104,
+				"right": 1498,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.57999999999999,
+				"min": -9.12,
+				"left": 1508,
+				"mean": -7.748275862068962,
+				"delta": 1.580000000000009,
+				"right": 1537,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -8.6,
+				"min": -12.62,
+				"left": 1683,
+				"mean": -10.053749999999998,
+				"delta": 2.959999999999999,
+				"right": 1715,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -8.14,
+				"min": -11.84,
+				"left": 1743,
+				"mean": -9.969142857142849,
+				"delta": 2.0999999999999998,
+				"right": 1778,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -9.64,
+				"min": -11.4599999999999,
+				"left": 1976,
+				"mean": -10.159999999999993,
+				"delta": 1.819999999999899,
+				"right": 2004,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -9.82,
+				"min": -14.1,
+				"left": 2023,
+				"mean": -10.878909090909083,
+				"delta": 4.279999999999999,
+				"right": 2078,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.35999999999999,
+				"min": -9.44,
+				"left": 2086,
+				"mean": -8.459999999999998,
+				"delta": 1.0399999999999992,
+				"right": 2118,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.37999999999999,
+				"min": -7.98,
+				"left": 2134,
+				"mean": -7.676190476190472,
+				"delta": 0.6000000000000103,
+				"right": 2155,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.46,
+				"min": -12.2199999999999,
+				"left": 2178,
+				"mean": -9.131428571428563,
+				"delta": 3.9599999999998998,
+				"right": 2213,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -6.64,
+				"min": -7.53999999999999,
+				"left": 2238,
+				"mean": -7.166666666666662,
+				"delta": 0.8999999999999906,
+				"right": 2247,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -7.64,
+				"min": -12.9,
+				"left": 2257,
+				"mean": -9.298936170212765,
+				"delta": 5.000000000000011,
+				"right": 2445,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.96,
+				"min": -9.34,
+				"left": 2447,
+				"mean": -8.073333333333333,
+				"delta": 1.6799999999999998,
+				"right": 2552,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -5.62,
+				"min": -11.08,
+				"left": 2555,
+				"mean": -8.83535714285714,
+				"delta": 5.46,
+				"right": 2611,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.38,
+				"min": -6.85999999999999,
+				"left": 2618,
+				"mean": -5.32411764705882,
+				"delta": 1.17999999999999,
+				"right": 2652,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.34,
+				"min": -9.71999999999999,
+				"left": 2657,
+				"mean": -6.8556521739130409,
+				"delta": 6.37999999999999,
+				"right": 2703,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -4.68,
+				"min": -12.92,
+				"left": 2719,
+				"mean": -8.132527472527471,
+				"delta": 8.24,
+				"right": 2810,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -5.12,
+				"min": -14.66,
+				"left": 2822,
+				"mean": -8.15876543209876,
+				"delta": 9.54,
+				"right": 2903,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -4.9,
+				"min": -10.52,
+				"left": 2905,
+				"mean": -7.191395348837205,
+				"delta": 5.619999999999999,
+				"right": 2991,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -2.91999999999999,
+				"min": -10.6,
+				"left": 2992,
+				"mean": -5.185483870967738,
+				"delta": 6.6,
+				"right": 3054,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.58,
+				"min": -6.2,
+				"left": 3055,
+				"mean": -4.4566666666666638,
+				"delta": 2.62,
+				"right": 3085,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -3.62,
+				"min": -11.7999999999999,
+				"left": 3088,
+				"mean": -6.7623890784982889,
+				"delta": 7.059999999999899,
+				"right": 3381,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			},
+			{
+				"max": -4.16,
+				"min": -4.78,
+				"left": 3417,
+				"mean": -4.437777777777774,
+				"delta": 0.6200000000000001,
+				"right": 3435,
+				"is_pain_peak": true,
+				"section_type": "neg_peak"
+			}
+		],
+		"baselines": [
+			{
+				"max": -2.44,
+				"min": -2.75999999999999,
+				"left": 0,
+				"mean": -2.5252173913043456,
+				"delta": 0.020000000000000019,
+				"right": 23,
+				"section_type": "baseline"
+			},
+			{
+				"max": -2.71999999999999,
+				"min": -3.47999999999999,
+				"left": 48,
+				"mean": -3.0329577464788666,
+				"delta": -0.17999999999998995,
+				"right": 119,
+				"section_type": "baseline"
+			},
+			{
+				"max": -3.26,
+				"min": -3.35999999999999,
+				"left": 153,
+				"mean": -3.3266666666666615,
+				"delta": -0.09999999999999032,
+				"right": 174,
+				"section_type": "baseline"
+			},
+			{
+				"max": -3.27999999999999,
+				"min": -3.62,
+				"left": 198,
+				"mean": -3.430588235294114,
+				"delta": -0.34000000000001009,
+				"right": 215,
+				"section_type": "baseline"
+			},
+			{
+				"max": -3.58,
+				"min": -4.22,
+				"left": 238,
+				"mean": -3.9169230769230727,
+				"delta": -0.47999999999999956,
+				"right": 277,
+				"section_type": "baseline"
+			},
+			{
+				"max": -3.5,
+				"min": -3.5,
+				"left": 350,
+				"mean": -3.5,
+				"delta": 0.0,
+				"right": 351,
+				"section_type": "baseline"
+			},
+			{
+				"max": -2.83999999999999,
+				"min": -3.23999999999999,
+				"left": 413,
+				"mean": -2.954193548387089,
+				"delta": 0.09999999999998988,
+				"right": 444,
+				"section_type": "baseline"
+			},
+			{
+				"max": -2.94,
+				"min": -4.14,
+				"left": 571,
+				"mean": -3.428913043478256,
+				"delta": -0.7600000000000002,
+				"right": 663,
+				"section_type": "baseline"
+			},
+			{
+				"max": -4.71999999999999,
+				"min": -4.94,
+				"left": 705,
+				"mean": -4.849230769230768,
+				"delta": 0.019999999999999575,
+				"right": 731,
+				"section_type": "baseline"
+			},
+			{
+				"max": -4.9,
+				"min": -5.3,
+				"left": 760,
+				"mean": -5.103333333333332,
+				"delta": -0.39999999999999949,
+				"right": 778,
+				"section_type": "baseline"
+			},
+			{
+				"max": -6.14,
+				"min": -6.32,
+				"left": 821,
+				"mean": -6.234999999999998,
+				"delta": 0.1800000000000006,
+				"right": 825,
+				"section_type": "baseline"
+			},
+			{
+				"max": -5.42,
+				"min": -6.03999999999999,
+				"left": 921,
+				"mean": -5.710344827586204,
+				"delta": -0.6199999999999903,
+				"right": 979,
+				"section_type": "baseline"
+			},
+			{
+				"max": -6.22,
+				"min": -6.41999999999999,
+				"left": 1004,
+				"mean": -6.379444444444435,
+				"delta": -0.15999999999999038,
+				"right": 1040,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.37999999999999,
+				"min": -7.96,
+				"left": 1152,
+				"mean": -7.691034482758618,
+				"delta": -0.5800000000000098,
+				"right": 1181,
+				"section_type": "baseline"
+			},
+			{
+				"max": -6.91999999999999,
+				"min": -7.16,
+				"left": 1367,
+				"mean": -7.014999999999998,
+				"delta": -0.24000000000000999,
+				"right": 1375,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.21999999999999,
+				"min": -7.64,
+				"left": 1422,
+				"mean": -7.332857142857137,
+				"delta": -0.38000000000000969,
+				"right": 1436,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.53999999999999,
+				"min": -7.78,
+				"left": 1498,
+				"mean": -7.661999999999992,
+				"delta": 0.10000000000000942,
+				"right": 1508,
+				"section_type": "baseline"
+			},
+			{
+				"max": -6.29999999999999,
+				"min": -9.66,
+				"left": 1537,
+				"mean": -7.359863013698627,
+				"delta": -3.08000000000001,
+				"right": 1683,
+				"section_type": "baseline"
+			},
+			{
+				"max": -9.54,
+				"min": -9.64,
+				"left": 1732,
+				"mean": -9.599999999999998,
+				"delta": -0.10000000000000142,
+				"right": 1743,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.6,
+				"min": -8.26,
+				"left": 1778,
+				"mean": -7.954999999999998,
+				"delta": 0.5600000000000005,
+				"right": 1790,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.16,
+				"min": -8.66,
+				"left": 1815,
+				"mean": -7.605405405405402,
+				"delta": -1.3200000000000003,
+				"right": 1889,
+				"section_type": "baseline"
+			},
+			{
+				"max": -8.79999999999999,
+				"min": -9.64,
+				"left": 1924,
+				"mean": -9.189999999999996,
+				"delta": -0.46000000000000088,
+				"right": 1976,
+				"section_type": "baseline"
+			},
+			{
+				"max": -9.66,
+				"min": -9.9,
+				"left": 2004,
+				"mean": -9.772631578947367,
+				"delta": -0.120000000000001,
+				"right": 2023,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.35999999999999,
+				"min": -7.57999999999999,
+				"left": 2118,
+				"mean": -7.448749999999993,
+				"delta": -0.06000000000001027,
+				"right": 2134,
+				"section_type": "baseline"
+			},
+			{
+				"max": -7.57999999999999,
+				"min": -8.21999999999999,
+				"left": 2155,
+				"mean": -7.838260869565215,
+				"delta": -0.6399999999999997,
+				"right": 2178,
+				"section_type": "baseline"
+			},
+			{
+				"max": -6.69999999999999,
+				"min": -7.23999999999999,
+				"left": 2213,
+				"mean": -6.847999999999994,
+				"delta": 0.5200000000000005,
+				"right": 2238,
+				"section_type": "baseline"
+			},
+			{
+				"max": -5.34,
+				"min": -5.5,
+				"left": 2703,
+				"mean": -5.4342857142857119,
+				"delta": -0.16000000000000015,
+				"right": 2710,
+				"section_type": "baseline"
+			},
+			{
+				"max": -3.62,
+				"min": -4.18,
+				"left": 3381,
+				"mean": -3.916111111111109,
+				"delta": -0.54,
+				"right": 3417,
+				"section_type": "baseline"
+			},
+			{
+				"max": -4.35999999999999,
+				"min": -4.55999999999999,
+				"left": 3435,
+				"mean": -4.467692307692305,
+				"delta": 0.0,
+				"right": 3461,
+				"section_type": "baseline"
+			}
+		],
+		"baseline_stats": {
+			"max": -2.44,
+			"min": -9.9,
+			"mean": -5.814687830687827,
+			"delta": -1.88
+		}
+	}
+}
